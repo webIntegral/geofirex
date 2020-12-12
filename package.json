@@ -31,8 +31,8 @@
     "author": "Jeff Delaney",
     "license": "ISC",
     "peerDependencies": {
-        "firebase": "^7.2.0",
-        "rxjs": "^6.2.1"
+        "firebase": "^8.0.0",
+        "rxjs": "^6.6.3"
     },
     "devDependencies": {
         "@firebase/firestore-types": "^0.4.3",
