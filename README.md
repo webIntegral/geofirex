@@ -9,6 +9,7 @@
 # THIS FORK FIXES
 
 This fork fixes all firebase imports from **import * as firebase from 'firebase/app'** to **import firebase from 'firebase/app'**.
+To install run **npm install --save https://github.com/webIntegral/geofirex.git**
 
 # GeoFireX
 
