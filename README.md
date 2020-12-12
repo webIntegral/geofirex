@@ -6,6 +6,10 @@
 
 </p>
 
+# THIS FORK FIXES
+
+This fork fixes all firebase imports from **import * as firebase from 'firebase/app'** to **import firebase from 'firebase/app'**.
+
 # GeoFireX
 
 Realtime Geolocation with Firestore & RxJS. Query geographic points within a radius on the web or Node.js. 
